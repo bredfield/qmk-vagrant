@@ -1,0 +1,1 @@
+{"virtualbox":{"/qmk_firmware":{"guestpath":"/qmk_firmware","hostpath":"/Users/ben/Projects/qmk_firmware","disabled":false,"__vagrantfile":true},"/vagrant":{"guestpath":"/vagrant","hostpath":"/Users/ben/Projects/vagrant_avrdude","disabled":false,"__vagrantfile":true}}}
